@@ -46,6 +46,5 @@ Our Excel workbook includes:
 
 By leveraging Excel's capabilities, we gain insights into space travel data, contributing to informed decisions in the field.
 
-For more information, check out the [Excel Space Travel Project Repository](link_to_your_repository).
 
 
